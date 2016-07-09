@@ -1,7 +1,7 @@
 gimp-plugins
 ========
 
-My list of plugins for The GIMP. Written in Python. Licensed under GPL v3.
+My list of plugins for The GIMP. Written in Python. Licensed under GPL v3 – see [LICENSE.md](LICENSE.md) or [LICENSE.txt](LICENSE.txt).
 
 # Procedure list
 
@@ -15,7 +15,16 @@ My list of plugins for The GIMP. Written in Python. Licensed under GPL v3.
 
 *TODO*: i18n
 
+### Trim to size
+
+`trim-to-size.py` – trims an image to the specified dimensions, with optional scaling.
+
 # Changelog
+
+#### 1.0
+
+* New plugin: `trim-to-size.py`
+
 
 #### 0.0
 
